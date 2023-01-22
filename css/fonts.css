@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'neural';
+    src: url(/fonts/fuente1/NeutralBP-MediumItalic.svg) format(svg),
+         url(/fonts/fuente1/NeutralBP-MediumItalic.woff) format(woff),
+         url(/fonts/fuente1/NeutralBP-MediumItalic.otf) format(otf),
+         url(/fonts/fuente1/NeutralBP-MediumItalic.woff2) format(woff2);
+         font-weight: normal;
+         font-style: normal;
+         font-display: swap;
+
+
+}
+
+@font-face {
+    font-family: 'fasthand';
+    src: url(/fonts/fuente2/Fasthand-Regular.svg) format(svg),
+         url(/fonts/fuente2/Fasthand-Regular.woff) format(woff),
+         url(/fonts/fuente2/Fasthand-Regular.woff2) format(woof2);
+         font-weight: normal;
+         font-style: normal;
+         font-display: swap;
+}
